@@ -27,4 +27,57 @@ Your website includes links to external resources.
 
 test test
 
-# Projects by Class Member:
+
+
+Projects by Class Member (list name)
+AZ Core Curriculum Standards
+Objectives
+Assessment
+Materials and Resources
+Procedures
+Peer Comments
+
+Brief Description
+
+
+
+Jasmine McClellan
+ASTM F2619 / F2619M - 20
+
+7.L2U1.12
+
+8.P4U2.5
+To identify science concepts
+and objects around them the students
+In class or at home
+
+identify
+Conduct research 
+Use scavenger hunt list clues to find items around the house or school from the google doc. Once students find the items take a picture or draw a picture of what you found and load it to the classroom google doc. Write a brief description on what your thoughts are and what interests  you for each item. Load that to the doc so other classmates can look at the items found..
+Paper 
+Pencil
+Scavenger hunt list
+Google doc
+Computer digital pictures of
+Items off list
+Day 1 
+With a partner(or alone if doing assignment at home) open google doc with the scavenger hunt list look for items.
+Day 2-3
+Look up each item with a picture 
+with what you found and a brief description on what it is, how it's used and what you thought was interesting about each item. Load those items on the google doc so other classmates can look at the items found on your scavenger hunt list. 
+
+
+
+
+
+
+
+Two objects that give off light
+One requirement for photosynthesis
+Something that came from a natural resource
+An invention
+Something used for energy
+A material with a high density
+Something that reflects light
+
+
