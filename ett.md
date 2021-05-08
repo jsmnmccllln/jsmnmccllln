@@ -21,14 +21,6 @@ Your website uses principles of good visual design and includes digital graphics
 
 Your website includes links to external resources.
 
-# test
-
-## test
-
-test test
-
-
-
 # Activity 2: Lesson Plan
 
 ## AZ Core Curriculum Standards: ASTM F2619 / F2619M - 20 / 7.L2U1.12 / 8.P4U2.5
